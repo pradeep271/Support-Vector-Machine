@@ -25,7 +25,3 @@ Support Vector Machines are powerful supervised learning models used for classif
 - Compare kernel performance visually and quantitatively  
 - Analyze overfitting vs underfitting  
 - Learn how to tune models for better generalization  
-
----
-
-## 📂 Repository Structure
