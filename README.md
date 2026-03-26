@@ -39,6 +39,7 @@ The code can be run in google colab or jupyter notebook, it is recommended to in
 - requirments.txt (libraries need to be installed which is used in code)
 - Images folder (the plots obtained in code)
 - README.md (the guide overview of the repo )
-- LICENCE (the permission for accesing and using the content) 
+- LICENCE (the permission for accesing and using the content)
+- svm.pdf (the tutorial content and explanation)
 
 
