@@ -1,7 +1,7 @@
 # Support Vector Machines Tutorial  
 ## Kernel Selection and Hyperparameter Tuning
 
-This repository contains a complete tutorial on **Support Vector Machines (SVMs)**, focusing on how **kernel choice and hyperparameter tuning** affect model performance and generalization.(Colorblind friendly)
+This repository contains a complete tutorial on **Support Vector Machines (SVMs)**, focusing on how **kernel choice and hyperparameter tuning** affect model performance and generalization on 2D dataset.(Colorblind friendly)
 
 ---
 
