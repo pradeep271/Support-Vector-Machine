@@ -130,9 +130,9 @@ svm_code.ipynb
 
 ```
 ├── svm_code.ipynb
-├── kernel_accuracy_comparison.png
+├── licence
 ├── README.md
-└── report.pdf
+└── svm.pdf
 ```
 
 ---
