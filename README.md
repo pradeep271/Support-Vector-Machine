@@ -174,8 +174,3 @@ This project highlights that:
 * **Visualization enhances understanding and communication**
 
 ---
-
-If you want, I can also:
-
-* add **badges (build, license, Python version)**
-* or make it **more “top GitHub project” style for recruiters**
